@@ -2,7 +2,7 @@
  * Student Name: Tanishq kumar
  * Registration Number: RA2511026010704
  * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
- * Section: AK1, B.Tech CSE with specialization in AI & ML
+ * Section: AL1, B.Tech CSE with specialization in AI & ML
  * 
  * Week 6 - S6 - Classes and Objects Revision - Assignment Practice Problem (HW)
  * Category C - Problem M5: Employee and Company Information Management

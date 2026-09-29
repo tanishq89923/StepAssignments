@@ -6,7 +6,7 @@ import java.util.List;
  * Student Name: Tanishq kumar
  * Registration Number: RA2511026010704
  * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
- * Section: AK1, B.Tech CSE with specialization in AI & ML
+ * Section: AL1, B.Tech CSE with specialization in AI & ML
  * 
  * Week 4 - S4 - Programming Fundamental - Assignment Problem (HW)
  * Category C - Problem A3: 3Sum

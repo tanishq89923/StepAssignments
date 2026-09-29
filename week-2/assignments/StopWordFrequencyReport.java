@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Student Name: Rehaan Ajani
- * Registration Number: RA2511026010673
+ * Student Name: Tanishq kumar
+ * Registration Number: RA2511026010704
  * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
- * Section: AK1, B.Tech CSE with specialization in AI & ML
+ * Section: AL1, B.Tech CSE with specialization in AI & ML
  * 
  * Week 2 - S2 - Assignments Problem (HW)
  * Problem 5: Stop-Word-Filtered Word Frequency Report

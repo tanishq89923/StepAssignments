@@ -6,7 +6,7 @@ import java.util.List;
  * Student Name: Tanishq kumar
  * Registration Number: RA2511026010704
  * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
- * Section: AK1, B.Tech CSE with specialization in AI & ML
+ * Section: AL1, B.Tech CSE with specialization in AI & ML
  * 
  * Week 5 - S5 - OOP Fundamental - Assignment Practice Problem (HW)
  * Category C - Problem 5 (Advanced): Fantasy League Auto-Draft Ranking Engine
